@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tea-Daze/static/css/main.b9373490.css",
+    "main.css": "/Tea-Daze/static/css/main.f3340e89.css",
     "main.js": "/Tea-Daze/static/js/main.2519f1f2.js",
     "static/js/453.276e0810.chunk.js": "/Tea-Daze/static/js/453.276e0810.chunk.js",
     "static/media/bg.gif": "/Tea-Daze/static/media/bg.5592cebd9a3e3a2cc507.gif",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/Tea-Daze/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/Tea-Daze/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Tea-Daze/index.html",
-    "main.b9373490.css.map": "/Tea-Daze/static/css/main.b9373490.css.map",
+    "main.f3340e89.css.map": "/Tea-Daze/static/css/main.f3340e89.css.map",
     "main.2519f1f2.js.map": "/Tea-Daze/static/js/main.2519f1f2.js.map",
     "453.276e0810.chunk.js.map": "/Tea-Daze/static/js/453.276e0810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9373490.css",
+    "static/css/main.f3340e89.css",
     "static/js/main.2519f1f2.js"
   ]
 }
