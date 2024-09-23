@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tea-Daze/static/css/main.56717616.css",
-    "main.js": "/Tea-Daze/static/js/main.8efe61df.js",
+    "main.css": "/Tea-Daze/static/css/main.7e66b953.css",
+    "main.js": "/Tea-Daze/static/js/main.6f023248.js",
     "static/js/453.276e0810.chunk.js": "/Tea-Daze/static/js/453.276e0810.chunk.js",
     "static/media/bg.gif": "/Tea-Daze/static/media/bg.5592cebd9a3e3a2cc507.gif",
     "static/media/visit.gif": "/Tea-Daze/static/media/visit.25bea1970e6d030fc81e.gif",
@@ -16,12 +16,12 @@
     "static/media/fa-v4compatibility.ttf": "/Tea-Daze/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/Tea-Daze/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Tea-Daze/index.html",
-    "main.56717616.css.map": "/Tea-Daze/static/css/main.56717616.css.map",
-    "main.8efe61df.js.map": "/Tea-Daze/static/js/main.8efe61df.js.map",
+    "main.7e66b953.css.map": "/Tea-Daze/static/css/main.7e66b953.css.map",
+    "main.6f023248.js.map": "/Tea-Daze/static/js/main.6f023248.js.map",
     "453.276e0810.chunk.js.map": "/Tea-Daze/static/js/453.276e0810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56717616.css",
-    "static/js/main.8efe61df.js"
+    "static/css/main.7e66b953.css",
+    "static/js/main.6f023248.js"
   ]
 }
