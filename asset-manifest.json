@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/Tea-Daze/static/css/main.7e66b953.css",
+    "main.css": "/Tea-Daze/static/css/main.985acf33.css",
     "main.js": "/Tea-Daze/static/js/main.6f023248.js",
     "static/js/453.276e0810.chunk.js": "/Tea-Daze/static/js/453.276e0810.chunk.js",
     "static/media/bg.gif": "/Tea-Daze/static/media/bg.5592cebd9a3e3a2cc507.gif",
     "static/media/visit.gif": "/Tea-Daze/static/media/visit.25bea1970e6d030fc81e.gif",
     "static/media/fa-solid-900.ttf": "/Tea-Daze/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/new.png": "/Tea-Daze/static/media/new.56a8d7167f74d2d4d6e2.png",
+    "static/media/visit2.gif": "/Tea-Daze/static/media/visit2.36d57938c4b9107f8dd2.gif",
     "static/media/footer.png": "/Tea-Daze/static/media/footer.684d4e5626e89101ab09.png",
     "static/media/fa-brands-400.ttf": "/Tea-Daze/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/Tea-Daze/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -16,12 +17,12 @@
     "static/media/fa-v4compatibility.ttf": "/Tea-Daze/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/Tea-Daze/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Tea-Daze/index.html",
-    "main.7e66b953.css.map": "/Tea-Daze/static/css/main.7e66b953.css.map",
+    "main.985acf33.css.map": "/Tea-Daze/static/css/main.985acf33.css.map",
     "main.6f023248.js.map": "/Tea-Daze/static/js/main.6f023248.js.map",
     "453.276e0810.chunk.js.map": "/Tea-Daze/static/js/453.276e0810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e66b953.css",
+    "static/css/main.985acf33.css",
     "static/js/main.6f023248.js"
   ]
 }
